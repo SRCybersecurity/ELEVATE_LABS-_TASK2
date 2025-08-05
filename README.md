@@ -1,6 +1,6 @@
 # ELEVATE_LABS-_TASK 2 <br></br><br></br>
 Task 2: Analyse a Phishing Email Sample.<br></br><br></br>
-
+Key Concepts: Phishing, email spoofing, header analysis, social engineering, threat detection<br></br>
 Objective: Identify phishing characteristics in a suspicious email sample.<br></br>
 Tools: MX Lookup, VirusTotal.<br></br><br></br>
 
